@@ -1,0 +1,6 @@
+1- Android telefonunuz ile bilgisayarınız aynı yerel ağda olmalı
+2- Android telefonunuza aşağıdaki linkteki uygulamayı kurun
+RTSP Camera Server
+https://play.google.com/store/apps/details?id=com.miv.rtspcamera&hl=en
+3- Uygulamayı çalıştırdığınızda ekranda ip adresi belirecektir. Gördüğünüz IP'yi python kodunda yazarak kodu çalıştırın.
+
